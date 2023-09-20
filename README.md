@@ -5,7 +5,6 @@
 <p align="center">❤️ Desenvolvedor front-end apaixonado por criar experiências web cativantes. Habilidoso em HTML, CSS, SASS , JavaScript e React. Comprometido com design responsivo e usabilidade.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=51% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AstolfoAstt&theme=radical&mode=weekly" />
 <img width=43% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AstolfoAstt&show_icons=true&theme=radical&layout=compact" />
  </div>
  
@@ -19,6 +18,7 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+<img alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
