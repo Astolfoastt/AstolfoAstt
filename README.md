@@ -2,7 +2,7 @@
 ![Group 2](https://github.com/Astolfoastt/AstolfoAstt/assets/128754740/b779e824-b02d-4865-aea2-2b389f344994)
 
 
-<p align="center">❤️ Desenvolvedor front-end apaixonado por criar experiências web cativantes. Habilidoso em HTML, CSS, SASS , JavaScript e React. Comprometido com design responsivo e usabilidade.</p>&nbsp;
+<p align="center">❤️ Desenvolvedor front-end apaixonado por criar experiências web cativantes. Habilidoso em HTML, CSS, SASS , JavaScript, TypeScript e React. Comprometido com design responsivo e usabilidade.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=43% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=AstolfoAstt&show_icons=true&theme=radical&layout=compact" />
