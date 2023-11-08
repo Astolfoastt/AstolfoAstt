@@ -5,9 +5,7 @@
 <p align="center">❤️ Desenvolvedor front-end apaixonado por criar experiências web cativantes. Habilidoso em HTML, CSS, SASS , JavaScript, TypeScript e React. Comprometido com design responsivo e usabilidade.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=43% align="center" src="https://github-readme-stats-git-main-AstolfoAstt.vercel.app/api/top-langs/?username=AstolfoAstt&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
+
  &nbsp;
  &nbsp;
 
