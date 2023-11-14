@@ -6,9 +6,11 @@
 
 <div  align="center" style="margin-bottom:100px">
 
- &nbsp;
- &nbsp;
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstolfoAstt&show_icons=true&theme=aura_dark)
 
+ &nbsp;
+ &nbsp;
+S
 
 
 ## Minhas Tecnologias
