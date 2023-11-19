@@ -1,9 +1,9 @@
 <p align="center"> 👾 Olá! me chamo Astolfo Daniel e sou um desenvolvedor front-end! 👾</p>
-<div  align="center">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact&langs_count=16&theme=synthwave"/>
-</div>
 
+<div align="center"> 
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact&langs_count=16&theme=synthwave"/>
+</div>
 
 
 ## Minhas Tecnologias
