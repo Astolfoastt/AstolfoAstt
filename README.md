@@ -3,8 +3,10 @@
 
 <div  align="center" style="margin-bottom:100px">
 
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact&langs_count=16&theme=synthwave"/>
+</div>
 
 ## Minhas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
