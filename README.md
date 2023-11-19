@@ -1,12 +1,10 @@
-
 <p align="center"> 👾 Olá! me chamo Astolfo Daniel e sou um desenvolvedor front-end! 👾</p>
-
-<div  align="center" style="margin-bottom:100px">
-
 <div  align="center">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
+
+
 
 ## Minhas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -18,13 +16,19 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
 
 #### Estudando no momento:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
+
 #### Minhas ferramentas de trabalho:
+
+
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
