@@ -1,17 +1,10 @@
 
-![Group 2](https://github.com/Astolfoastt/AstolfoAstt/assets/128754740/b779e824-b02d-4865-aea2-2b389f344994)
-
-
-<p align="center">❤️ Desenvolvedor front-end apaixonado por criar experiências web cativantes. Habilidoso em HTML, CSS, SASS , JavaScript, TypeScript e React. Comprometido com design responsivo e usabilidade.</p>&nbsp;
+<p align="center"> 👾 Olá! me chamo Astolfo Daniel e sou um desenvolvedor front-end! 👾</p>
 
 <div  align="center" style="margin-bottom:100px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstolfoAstt&show_icons=true&theme=aura_dark)
-
- &nbsp;
- &nbsp;
-S
-
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact&langs_count=16&theme=synthwave"/>
 
 ## Minhas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -41,13 +34,8 @@ S
 ## Contatos:
 
 <div> 
-<a href="https://www.instagram.com/astt420/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href = "mailto:astolfo0007@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/astolfo-daniel-6835bb269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
- 
 
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
