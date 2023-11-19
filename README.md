@@ -6,7 +6,7 @@
 </div>
 
 
-## Minhas Tecnologias
+## ♦️ Minhas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -23,7 +23,7 @@
 &nbsp;
 
 
-#### Estudando no momento:
+#### ♦️ Estudando no momento:
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
@@ -36,7 +36,7 @@
 &nbsp;
 &nbsp;
 
-## Contatos:
+## ♦️ Contatos:
 
 <div> 
 <a href = "mailto:astolfo0007@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
