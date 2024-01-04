@@ -3,7 +3,6 @@
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
-
 ## ♦️ Minhas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
