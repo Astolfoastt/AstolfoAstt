@@ -1,4 +1,4 @@
-
+<p>Me chamo Astolfo Daniel, sou estudante de programação full stack web, gosto muito do que faço, e sinto que posso fazer a diferença com todo o conhecimento que adquiri até aqui!</p>
 
 ## ♦️ Minhas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
