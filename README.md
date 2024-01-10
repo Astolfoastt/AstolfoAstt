@@ -1,7 +1,6 @@
 <p>♦️Oi, sou o Astolfo Daniel, estudante de programação full stack web. Curto demais o que faço e tô aqui na vibe de fazer a diferença com tudo que aprendi até agora. Bora nessa jornada juntos!</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=aura_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact)
 
 
