@@ -17,15 +17,15 @@
 &nbsp;
 &nbsp;
 
-<div style="display: flex; justify-content: space-around; gap:30px;">
+<div style="display: flex; justify-content: space-around; ">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="300" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="400" height="200">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="320" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="400" height="200">
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="margin-top: 20px;" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 &nbsp;
 &nbsp;
