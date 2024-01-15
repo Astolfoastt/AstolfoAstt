@@ -19,7 +19,7 @@
 
 <div style="display: flex; justify-content: space-around;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="320" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="320" height="180">
 
   <img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="320" height="200">
 
