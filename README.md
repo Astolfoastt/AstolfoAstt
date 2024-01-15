@@ -1,5 +1,14 @@
 <p>♦️Oi, sou o Astolfo Daniel, entusiasta de programação full stack web. Tenho uma paixão especial pelo universo do front end, onde busco criar experiências visuais cativantes e elegantes. Estou comprometido em aplicar meus conhecimentos de forma aprimorada nessa área, visando contribuir de maneira significativa. Vamos embarcar juntos nessa jornada! 🚀</p>
 
+
+<div style="display: flex; justify-content: space-around; ">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="400" height="200">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="400" height="200">
+
+</div>
+
 ## ♦️ Minhas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -16,14 +25,6 @@
 
 &nbsp;
 &nbsp;
-
-<div style="display: flex; justify-content: space-around; ">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="400" height="200">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="400" height="200">
-
-</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
