@@ -25,7 +25,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="margin-top: 100px;" min-width="400px" max-width="300px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computador iuriCode">
 
 &nbsp;
 &nbsp;
