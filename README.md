@@ -17,8 +17,8 @@
 &nbsp;
 &nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="400" height="200">
-<img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="400" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="350" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="350" height="200">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 &nbsp;
