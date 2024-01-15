@@ -1,7 +1,7 @@
 <p>♦️Oi, sou o Astolfo Daniel, entusiasta de programação full stack web. Tenho uma paixão especial pelo universo do front end, onde busco criar experiências visuais cativantes e elegantes. Estou comprometido em aplicar meus conhecimentos de forma aprimorada nessa área, visando contribuir de maneira significativa. Vamos embarcar juntos nessa jornada! 🚀</p>
 
 
-<div style="display: flex; justify-content: space-around; gap:"30px" ">
+<div style="display: flex; justify-content: between;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="400" height="200">
 
