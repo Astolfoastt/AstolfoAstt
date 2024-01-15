@@ -17,7 +17,7 @@
 &nbsp;
 &nbsp;
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; gap:30px;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="300" height="180">
 
