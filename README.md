@@ -21,7 +21,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astolfoastt&layout=compact" alt="Top Langs" width="400" height="200">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="400" height="250">
 
 </div>
 
