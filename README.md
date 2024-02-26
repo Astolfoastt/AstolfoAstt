@@ -1,8 +1,5 @@
 <p>♦️Oi, sou o Astolfo Daniel, entusiasta de programação full stack web. Tenho uma paixão especial pelo universo do front end, onde busco criar experiências visuais cativantes e elegantes. Estou comprometido em aplicar meus conhecimentos de forma aprimorada nessa área, visando contribuir de maneira significativa. Vamos embarcar juntos nessa jornada! 🚀</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Astolfoastt&show_icons=true&theme=compact" alt="GitHub Stats" width="400" height="200">
-
-
 ## ♦️ Minhas Tecnologias
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
